@@ -1,0 +1,4 @@
+C:\Users\Alan\Desktop\Pathway\-cse210-hw\prove\Develop02\obj\Debug\net7.0\Develop02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alan\Desktop\Pathway\-cse210-hw\prove\Develop02\obj\Debug\net7.0\Develop02.AssemblyInfoInputs.cache
+C:\Users\Alan\Desktop\Pathway\-cse210-hw\prove\Develop02\obj\Debug\net7.0\Develop02.AssemblyInfo.cs
+C:\Users\Alan\Desktop\Pathway\-cse210-hw\prove\Develop02\obj\Debug\net7.0\Develop02.csproj.CoreCompileInputs.cache
