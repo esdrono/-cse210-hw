@@ -18,7 +18,6 @@ namespace EternalQuest
     {
         public override int RecordCompletion()
         {
-            // Simplified logic
             return PointsPerCompletion;
         }
     }
@@ -27,7 +26,6 @@ namespace EternalQuest
     {
         public override int RecordCompletion()
         {
-            // Simplified logic
             return PointsPerCompletion;
         }
     }
